@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="comics_title">📖 Comics</string>
+    <string name="no_character_description">We don\'t have any information about this character.</string>
+    <string name="no_comic_description">We don\'t have any information about this comic.</string>
+    <string name="back">Back</string>
+</resources>
